@@ -12,7 +12,7 @@ const Form = () => {
         </h1>
       </div>
       <div>
-        <Image src='/down.svg' alt="down" width={50} height={50} className='ml-2 mt-5 animate-y-axis'/>
+        <Image src='/down.svg' alt="down" width={50} height={50} className='ml-2 mt-5 animate-y-axis rotate-90'/>
       </div>
     </div>
   )
