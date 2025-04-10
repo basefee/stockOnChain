@@ -5,7 +5,7 @@ export default function IntegrationFlow() {
   const integrationsBottom = ["Next.js", "Tailwind", "Express", "Ethers.js", "Node.js", "TypeScript"];
 
   return (
-    <section className="relative bg-gradient-to-b from-[#0d0f1c] to-[#0b0e19] py-24 px-4 sm:px-8 lg:px-20 overflow-hidden">
+    <section className="relative bg-gradient-to-b from-[#0d0f1c] to-[#0b0e19] py-24 px-4 sm:px-8 lg:px-20 overflow-hidden h-screen flex flex-col justify-center pt-40">
       <div className="text-center mb-24">
         <h2 className="text-4xl font-bold text-white mb-4">How onTrade Comes Together</h2>
         <p className="text-gray-400 max-w-xl mx-auto text-sm">
