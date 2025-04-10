@@ -26,7 +26,7 @@ export default function TeamSection() {
       {
         name: "Raj Mondal",
         role: "Deployment and configuration",
-        image: "/team/zara.jpg",
+        image: "/members/raj.jpg",
       },
     ];
   
